@@ -1,3 +1,3 @@
 Demo repository on git
 <br>
-Author  (adil)
+Author - (adil)
